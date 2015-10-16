@@ -1,0 +1,1998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"package",
+				"package_json"
+			],
+			[
+				"update_",
+				"update_resource"
+			],
+			[
+				"old",
+				"old_value_insensitive"
+			],
+			[
+				"created",
+				"created_resource"
+			],
+			[
+				"alway",
+				"always_the_same_resource"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"always",
+				"always_the_same"
+			],
+			[
+				"alwa",
+				"always"
+			],
+			[
+				"old_value_sensitive_",
+				"old_value_sensitive_methods"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"first",
+				"first_42_then_anything_resource"
+			],
+			[
+				"new",
+				"new_value"
+			],
+			[
+				"acce",
+				"accept"
+			],
+			[
+				"old_value",
+				"old_value_insensitive"
+			],
+			[
+				"value_in",
+				"value_in_code"
+			],
+			[
+				"valida",
+				"validation_errors"
+			],
+			[
+				"current_",
+				"current_validation_errors"
+			],
+			[
+				"validat",
+				"validation_results"
+			],
+			[
+				"old_",
+				"old_value_sensitive_methods"
+			],
+			[
+				"old_va",
+				"old_Valu_sensitive_methods"
+			],
+			[
+				"get_",
+				"get_description"
+			],
+			[
+				"Field",
+				"FieldTypeDescription"
+			],
+			[
+				"from_",
+				"from_father"
+			],
+			[
+				"paren",
+				"parent_field_type"
+			],
+			[
+				"encoded",
+				"encoded_value"
+			],
+			[
+				"accep",
+				"accepting_son"
+			],
+			[
+				"Ch",
+				"ChipTypes"
+			],
+			[
+				"what_it",
+				"what_its_been_fed"
+			],
+			[
+				"load_",
+				"load_plugins_from_dir"
+			],
+			[
+				"laod_pl",
+				"load_plugins_from_dir"
+			],
+			[
+				"Resource",
+				"ResourceTypeField"
+			],
+			[
+				"wha",
+				"what_its_been_fed"
+			],
+			[
+				"what",
+				"what_it_returned"
+			],
+			[
+				"test_",
+				"test_field_type"
+			],
+			[
+				"update",
+				"update_resource"
+			],
+			[
+				"created_",
+				"created_resource_id"
+			],
+			[
+				"never_",
+				"never_fails_resource"
+			],
+			[
+				"REsour",
+				"ResourceManager"
+			],
+			[
+				"colle",
+				"collection_to_filename"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"complex",
+				"complex_object"
+			],
+			[
+				"comple",
+				"complex_object"
+			],
+			[
+				"create",
+				"created_so_far"
+			],
+			[
+				"copml",
+				"complex_object"
+			],
+			[
+				"compl",
+				"complex_object"
+			],
+			[
+				"document",
+				"documents_with_rand"
+			],
+			[
+				"main",
+				"Sealious/lib/main.js"
+			],
+			[
+				"wri",
+				"writeFileSync"
+			],
+			[
+				"sort",
+				"sort_description"
+			],
+			[
+				"collect",
+				"collection_to_filename"
+			],
+			[
+				"Sealious",
+				"SealiousErrors"
+			],
+			[
+				"exercises",
+				"exercises_count"
+			],
+			[
+				"exercise",
+				"exercisesCount"
+			],
+			[
+				"to_merge_",
+				"to_merge_right"
+			],
+			[
+				"to_mer",
+				"to_merge_left"
+			],
+			[
+				"datastore_c",
+				"datastore_chip_amount"
+			],
+			[
+				"valu",
+				"value_in_database"
+			],
+			[
+				"request",
+				"request_details"
+			],
+			[
+				"valid",
+				"validation_results"
+			],
+			[
+				"validation",
+				"validation_results"
+			],
+			[
+				"plugin_",
+				"plugin_package_info"
+			],
+			[
+				"plugin",
+				"plugin_package_info"
+			],
+			[
+				"plugin_package",
+				"plugin_package_info_file"
+			],
+			[
+				"chip",
+				"chip_types_to_start"
+			],
+			[
+				"result",
+				"validation_result"
+			],
+			[
+				"resourcE_ty",
+				"resource_type_name"
+			],
+			[
+				"params",
+				"params_copy"
+			],
+			[
+				"allow",
+				"allowed_types"
+			],
+			[
+				"field_",
+				"field_type_reference"
+			],
+			[
+				"decoded_",
+				"decoded_values"
+			],
+			[
+				"process_",
+				"process_sealious_response"
+			],
+			[
+				"process_sealious",
+				"process_sealious_response_element"
+			],
+			[
+				"decode_",
+				"decode_values"
+			],
+			[
+				"resource",
+				"resource_type_object"
+			],
+			[
+				"access_",
+				"access_strategy"
+			],
+			[
+				"access_s",
+				"access_strategy"
+			],
+			[
+				"access",
+				"accesss_strategy"
+			],
+			[
+				"access_st",
+				"access_strategy_action_sensitive"
+			],
+			[
+				"access_a",
+				"access_strategy"
+			],
+			[
+				"access_stra",
+				"access_strategy"
+			],
+			[
+				"acces_",
+				"access_strategy_action_sensitive"
+			],
+			[
+				"access_strat",
+				"access_strategy_promise"
+			],
+			[
+				"passwo",
+				"password_match"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n  \"name\": \"typing-game\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Teachung people to type efficiently\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"run\": \"http-server ./www\",\n    \"watch\": \"\"\n\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/groovy354/typing-game.git\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"bugs\": {\n    \"url\": \"https://github.com/groovy354/typing-game/issues\"\n  },\n  \"homepage\": \"https://github.com/groovy354/typing-game#readme\",\n  \"dependencies\": {\n    \"http-server\": \"^0.8.5\",\n    \"react\": \"^0.14.0\"\n  }\n}\n",
+			"file": "package.json",
+			"file_size": 598,
+			"file_write_time": 130894681610925505,
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var ",
+			"file": "lib/main.jsx",
+			"file_size": 0,
+			"file_write_time": 130894679290324013,
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 68.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jtml",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"format",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"forma",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jeson",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"theirs",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"keep ",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keep ours",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"keep",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"our",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"syntax markdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"keep ou",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insert",
+				"InsertDate: Default"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"filecop",
+				"File: Copy Name"
+			],
+			[
+				"conflisho",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"ours",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"conflict",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"their",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"confsho",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"thei",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"confli",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"loca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"colorcode",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"color ",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kuba/Projects/typing-game"
+	],
+	"file_history":
+	[
+		"/home/kuba/Projects/typing-game.sublime-project",
+		"/home/kuba/Studia/2015 Z/PJN/grimms.txt",
+		"/home/kuba/Projects/Sealious-dev/Sealious/lib/core-services/resource-manager.js",
+		"/home/kuba/Projects/Sealious-dev/Sealious/lib/chip-types/resource-type.js",
+		"/home/kuba/Projects/Sealious-dev/Sealious/lib/chip-types/resource-type-field.js",
+		"/home/kuba/Projects/Sealious-dev/sealious-channel-rest/sealious-channel-rest.js",
+		"/home/kuba/Projects/Sealious-dev/Sealious/lib/base-chips/field_type.reference.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious.github.io/index.html",
+		"/home/kuba/Projekty/markov-news/index.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/app.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/public/_index.html",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/public/_index2.html",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/output.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/form.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/rest-handler-method.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/stores/store.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/public/css/responsive.css",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/main.js",
+		"/home/kuba/Studia/2015 Z/Rozpatrywne przedmioty na na Biologii.md",
+		"/home/kuba/Projekty/markov-news/feeds.json",
+		"/media/kuba/F407-9B40/result_network.csv",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/resource-type.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/routes.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/rest-docs.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/build.sh",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/.gitignore",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/package.json",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/sealious-channel-rest.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/components/navigation.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/public/index.html",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/main.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/docs/lib/docs-web.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/define/channel.rest.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/define/public/_index.html",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/resource_type.user.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/resource-type.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/define/build.sh",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/define/src/js/docs.jsx",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/define/src/js/components/routes.jsx",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/field-type.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/core-services/resource-manager.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.text.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.datetime.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/_base-chips.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.date.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.boolean.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.file.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/resource-type-field.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.reference.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/docs/reference.md",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.float.js",
+		"/home/kuba/temp/sealious-example/index.js",
+		"/home/kuba/Downloads/his_ls",
+		"/home/kuba/Downloads/my_ls",
+		"/home/kuba/temp/sealious-example/package.json",
+		"/home/kuba/temp/sealious-example/pack",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.email.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/package.json",
+		"/home/kuba/Projekty/Sealious-dev/file-datastore/datastore.file.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/field_type.int.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious/node_modules/sealious-datastore-tingo/node_modules/tingodb/lib/tcoll.js",
+		"/home/kuba/temp/Sealious-example/index.js",
+		"/home/kuba/.cache/.fr-EJXnmj/LibreOffice_5.0.2.2_Linux_x86-64_deb/readmes/README_en-US",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/tests/test.js",
+		"/home/kuba/Downloads/balancedURLlist.R",
+		"/home/kuba/temp/roqad-ppb2015/1.2 Matematycy R/clustering.R",
+		"/home/kuba/temp/Sealious-example/package.json",
+		"/home/kuba/temp/main.cpp",
+		"/home/kuba/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/kuba/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/tests/unit-tests/field-type.test.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/tests/unit-tests/resource-manager.test.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-example-app/main.js",
+		"/home/kuba/.config/sublime-text-3/Packages/User/JSCS-Formatter.sublime-settings",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/README.md",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/.travis.yml",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/.jscsrc",
+		"/home/kuba/temp/to-remove/package.json",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/base-chips/access_strategy.id_starts_with_digit.js",
+		"/home/kuba/.config/sublime-text-3/Packages/JSCS-Formatter/JSCS-Formatter.sublime-settings",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/.jshintrc",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/.gitignore",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/core-services/file-manager.js",
+		"/home/kuba/temp/eng.txt",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/plugins/plugin-manager.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/tests/prepare-for-coverage.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/tests/prepare-for-coverage-undo.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/db/resources",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/tests/undo-prepare-test.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/tests/prepare-for-coverage.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/tests/prepare-for-coverage-undo.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/chip.js",
+		"/home/kuba/Projekty/Sealious-dev/hello-world/db/resources",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/chip-manager.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-www-server/define/field_type.color.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/channel.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/response/error.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/node_modules/sealious-datastore-tingo/node_modules/tingodb/lib/wqueue.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/data-structures/field-type-description.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/context.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/access-strategy.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/chip-types/datastore.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/data-structures/file.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/dispatchers/dispatcher.js",
+		"/home/kuba/Projekty/Sealious-dev/sealious-www-server/package.json",
+		"/home/kuba/Projekty/Sealious-dev/sealious-channel-rest/node_modules/sealious-www-server/package.json",
+		"/home/kuba/Projekty/roq.ad/data/.gitignore",
+		"/home/kuba/Projekty/roq.ad/mysql/import_csv_to_mysql.sh",
+		"/home/kuba/Downloads/magda.md",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/use/channel.www_server.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/define/field_type.color.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/define/channel.www_server.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/define/channel.rest.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/define/channel.http.js",
+		"/home/kuba/temp/sealious-example/node_modules/sealious-www-server/sealious-www-server.js",
+		"/home/kuba/.mednafen/mednafen-09x.cfg",
+		"/media/kuba/HOD_V1.1.03Uk/HOD_readme.txt",
+		"/home/kuba/Downloads/HOD/HOD.txt",
+		"/home/kuba/temp/hod_output.txt",
+		"/home/kuba/log.txt",
+		"/home/kuba/Desktop/Heart Of Darkness - The game.desktop",
+		"/home/kuba/Projekty/roq.ad/gitignore",
+		"/home/kuba/temp/sealious-test/index.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/lib/core.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/.git/MERGE_MSG",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/node_modules/sealious-datastore-tingo/node_modules/sealious-datastore-dbs-common-part/package.json",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/node_modules/sealious-datastore-tingo/index.js",
+		"/home/kuba/Projekty/Sealious-dev/Sealious/node_modules/sealious-datastore-tingo/package.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			".js",
+			"",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/lib/",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/lib/, *.js",
+			"/home/kuba/Projekty/Sealious-dev/lib/",
+			"/home/kuba/Projekty/Sealious-dev/lib/, *.js",
+			"/home/kuba/Projekty/Sealious-dev/lib, *.js",
+			"/home/kuba/Projekty/Sealious-dev, *.js",
+			"/home/kuba/Projekty/Sealious-dev",
+			"/home/kuba/Projekty/Sealious",
+			"/home/kuba/Projekty/",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/lib/",
+			"*.js",
+			"",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/lib/,/home/kuba/Projekty/Sealious-dev/sealious-base-chips/use,/home/kuba/Projekty/Sealious-dev/sealious-base-chips/define",
+			"/home/kuba/Projekty/Sealious-dev/Sealious/lib/",
+			"*.js",
+			".js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"signat",
+			"signature",
+			"signatures",
+			"signature",
+			"get_signature",
+			"/desc",
+			"desc",
+			"/description",
+			"extends",
+			"\\\",\\\"",
+			"	",
+			"<div>",
+			"li",
+			"ul",
+			"flex",
+			"td",
+			"input",
+			"height:100vh;\n	width:100%;\n	box-shadow:0px 0px 1px #888888;\n	overflow:hidden;\n	overflow-x:auto;\n	overflow-y:auto;",
+			"modules",
+			"list_resource_types",
+			"console.log",
+			"decode",
+			"value_in_database, params, formatting_options",
+			"decode",
+			"values_key",
+			"is_proper_value(",
+			"is_proper_value",
+			"console.log",
+			"validate_field_values",
+			"Set",
+			"Ala",
+			"Mocha",
+			"mocha",
+			"self",
+			"readme",
+			"tag",
+			"console.log",
+			"travis-cov",
+			"travis",
+			"lcov",
+			"travis-cov",
+			"clone",
+			"fs-extra",
+			"field_type",
+			"needs_proper_old_value",
+			"old_value",
+			"-",
+			"console.log",
+			"is_old_value_sensitive",
+			".create",
+			"create",
+			"test",
+			"tets",
+			"check_missing",
+			"old_value_sensitive",
+			"text",
+			"old_value_sensitive_methods",
+			"typedeclaration",
+			"FieldDescription",
+			"encode(",
+			".encode(",
+			"encode",
+			"check_value",
+			".is_proper_value(",
+			"number",
+			"value_in_code",
+			"validation_results",
+			"keys",
+			"slef",
+			"that",
+			"old_Valu_sensitive_methods",
+			"old_value_sen",
+			".length",
+			"reject:",
+			".encode",
+			"encode",
+			"isProperValue",
+			"console.log",
+			"access_mode",
+			"data",
+			"row_params",
+			"users",
+			".create",
+			"\\.create",
+			"encode",
+			"rejecting_fater",
+			"._",
+			"this.params",
+			".decode",
+			"console.log",
+			";;",
+			"done\\((\\\".*\\\")\\)",
+			"done\\((\\\".*\\\")\\);",
+			"done(\"But it didn't\");",
+			"done\\((\\\".*\\\")\\)",
+			"done(\"But it didn't\")",
+			"done\\((\\\".*\\\")\\)",
+			"encode",
+			"extends",
+			"uses_con",
+			"uses_context",
+			"console.log",
+			"is_a_constructor",
+			"encoded",
+			"isProperValue",
+			"if",
+			"always_fails",
+			"filter",
+			"???",
+			"parent_module_path",
+			"value",
+			"value_in_database",
+			"this.params",
+			"set_params",
+			"decode",
+			"module_",
+			"is_proper_declaration",
+			"file-manager",
+			"only_reddish_colors",
+			"FactGen",
+			"keyboard",
+			"psx",
+			"missing_value",
+			"package_dir",
+			"load_plugins",
+			"test_init",
+			"get_params"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\\",\\n\\t\\\"",
+			";",
+			"done(new Error($1));",
+			"throw new Error\\($1\\);\\ndone();",
+			"throw new Error\\($1\\)",
+			",\\n",
+			"1rem;",
+			"$1 $2",
+			"datastore.remove",
+			"SealiousErrors",
+			"Sealious.Errors",
+			"Sealious.Dispatcher.",
+			"#669FB1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/main.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "typing-game.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"restype",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"resman",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"main",
+				"Sealious/lib/main.js"
+			],
+			[
+				"routes",
+				"sealious-channel-rest/docs/lib/components/routes.jsx"
+			],
+			[
+				"docs",
+				"sealious-channel-rest/define/src/js/docs.jsx"
+			],
+			[
+				"typeuser",
+				"Sealious/lib/base-chips/resource_type.user.js"
+			],
+			[
+				"field",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"refere",
+				"Sealious/docs/reference.md"
+			],
+			[
+				"reference",
+				"Sealious/lib/base-chips/field_type.reference.js"
+			],
+			[
+				"field-ty",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"restyp",
+				"Sealious/lib/chip-types/resource-type.js"
+			],
+			[
+				"datetime",
+				"Sealious/lib/base-chips/field_type.datetime.js"
+			],
+			[
+				"fieltfile",
+				"Sealious/lib/base-chips/field_type.file.js"
+			],
+			[
+				"file",
+				"file-datastore/datastore.file.js"
+			],
+			[
+				"field-type",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"resmantes",
+				"Sealious/tests/unit-tests/resource-manager.test.js"
+			],
+			[
+				"test",
+				"Sealious/tests/test.js"
+			],
+			[
+				"resoma",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"readme",
+				"Sealious/README.md"
+			],
+			[
+				"pack",
+				"Sealious/package.json"
+			],
+			[
+				"main.js",
+				"Sealious/lib/main.js"
+			],
+			[
+				"giti",
+				"Sealious/.gitignore"
+			],
+			[
+				"travis",
+				"Sealious/.travis.yml"
+			],
+			[
+				"plugin",
+				"Sealious/lib/plugins/plugin-manager.js"
+			],
+			[
+				"package",
+				"Sealious/package.json"
+			],
+			[
+				"text",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"referen",
+				"Sealious/docs/reference.md"
+			],
+			[
+				"refe",
+				"Sealious/docs/reference.md"
+			],
+			[
+				"resourcemana",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"fieldtype",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"int",
+				"Sealious/lib/base-chips/field_type.int.js"
+			],
+			[
+				"chi",
+				"Sealious/lib/chip-types/chip-manager.js"
+			],
+			[
+				"refer",
+				"Sealious/docs/reference.md"
+			],
+			[
+				"reschannet",
+				"sealious-channel-rest/sealious-channel-rest.js"
+			],
+			[
+				"restypefield",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"retypfield",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"erro",
+				"Sealious/lib/response/error.js"
+			],
+			[
+				"colr",
+				"sealious-www-server/define/field_type.color.js"
+			],
+			[
+				"channel",
+				"Sealious/lib/chip-types/channel.js"
+			],
+			[
+				"reman",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"restypfiel",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"fiedes",
+				"Sealious/lib/data-structures/field-type-description.js"
+			],
+			[
+				"resour",
+				"Sealious/db/resources"
+			],
+			[
+				"context",
+				"Sealious/lib/context.js"
+			],
+			[
+				"referenc",
+				"Sealious/docs/reference.md"
+			],
+			[
+				"acces",
+				"Sealious/lib/chip-types/access-strategy.js"
+			],
+			[
+				"chip",
+				"Sealious/lib/chip-types/chip.js"
+			],
+			[
+				"chipmanager",
+				"Sealious/lib/chip-types/chip-manager.js"
+			],
+			[
+				"restypefiel",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"restypfi",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"email",
+				"Sealious/lib/base-chips/field_type.email.js"
+			],
+			[
+				"field-t",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"date",
+				"Sealious/lib/base-chips/field_type.date.js"
+			],
+			[
+				"restypefi",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"chipmana",
+				"Sealious/lib/chip-types/chip-manager.js"
+			],
+			[
+				"datastore",
+				"Sealious/lib/chip-types/datastore.js"
+			],
+			[
+				"fieldtyp",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"resourcetypeuser",
+				"Sealious/lib/base-chips/resource_type.user.js"
+			],
+			[
+				"fietext",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"fie",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"restfie",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"resfie",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"fielte",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"fielty",
+				"Sealious/lib/chip-types/field-type.js"
+			],
+			[
+				"data",
+				"Sealious/lib/chip-types/datastore.js"
+			],
+			[
+				"access",
+				"Sealious/lib/chip-types/access-strategy.js"
+			],
+			[
+				"datast",
+				"Sealious/lib/chip-types/datastore.js"
+			],
+			[
+				"digit",
+				"Sealious/lib/base-chips/access_strategy.id_starts_with_digit.js"
+			],
+			[
+				"_base",
+				"Sealious/lib/base-chips/_base-chips.js"
+			],
+			[
+				"resm",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"chipman",
+				"Sealious/lib/chip-types/chip-manager.js"
+			],
+			[
+				"fieldt",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"datamon",
+				"Sealious/lib/base-chips/datastore.mongo.js"
+			],
+			[
+				"core",
+				"Sealious/lib/core.js"
+			],
+			[
+				"represe",
+				"Sealious/lib/chip-types/resource-representation.js"
+			],
+			[
+				"errors",
+				"Sealious/lib/response/error.js"
+			],
+			[
+				"core.js",
+				"Sealious/lib/core.js"
+			],
+			[
+				"file-man",
+				"Sealious/lib/core-services/file-manager.js"
+			],
+			[
+				"channelre",
+				"sealious-www-server/define/channel.rest.js"
+			],
+			[
+				"channelrest",
+				"sealious-www-server/define/channel.rest.js"
+			],
+			[
+				"res-rtp",
+				"Sealious/lib/chip-types/resource-type.js"
+			],
+			[
+				"responerr",
+				"Sealious/lib/response/error.js"
+			],
+			[
+				"datamongo",
+				"Sealious/lib/base-chips/datastore.mongo.js"
+			],
+			[
+				"fieldtypere",
+				"Sealious/lib/base-chips/field_type.reference.js"
+			],
+			[
+				"resfiel",
+				"Sealious/lib/chip-types/resource-type-field.js"
+			],
+			[
+				"color",
+				"sealious-www-server/define/field_type.color.js"
+			],
+			[
+				"index",
+				"cli-channel/index.js"
+			],
+			[
+				"datafil",
+				"file-datastore/datastore.file.js"
+			],
+			[
+				"chip.js",
+				"Sealious/lib/chip-types/chip.js"
+			],
+			[
+				"filema",
+				"file-datastore/main.js"
+			],
+			[
+				"datasfile",
+				"Sealious/lib/data-structures/file.js"
+			],
+			[
+				"fieldtext",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"main.j",
+				"Sealious/lib/main.js"
+			],
+			[
+				"logger",
+				"Sealious/lib/logger/logger.js"
+			],
+			[
+				"bool",
+				"Sealious/lib/base-chips/field_type.boolean.js"
+			],
+			[
+				"resourcetype",
+				"Sealious/lib/chip-types/resource-type.js"
+			],
+			[
+				"usermana",
+				"Sealious/lib/core-services/user_manager.js"
+			],
+			[
+				"channelwww",
+				"sealious-www-server/define/channel.www_server.js"
+			],
+			[
+				"mongo",
+				"Sealious/lib/base-chips/datastore.mongo.js"
+			],
+			[
+				"alfred",
+				"sealious-example-app/public/fonts/opensans_regular_polish/OpenSans-Regular-demo.html"
+			],
+			[
+				"users",
+				"Sealious/lib/core-services/user_manager.js"
+			],
+			[
+				"main.",
+				"Sealious/lib/main.js"
+			],
+			[
+				"read",
+				"Sealious/README.md"
+			],
+			[
+				"starts",
+				"Sealious/lib/base-chips/access_strategy.id_starts_with_digit.js"
+			],
+			[
+				"mon",
+				"Sealious/lib/base-chips/datastore.mongo.js"
+			],
+			[
+				"resourcemanager",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"channrest",
+				"sealious-www-server/define/channel.rest.js"
+			],
+			[
+				"resuser",
+				"Sealious/lib/base-chips/resource_type.user.js"
+			],
+			[
+				"dispa",
+				"Sealious/lib/dispatchers/dispatcher.js"
+			],
+			[
+				"dispatcher",
+				"Sealious/lib/dispatchers/dispatcher.js"
+			],
+			[
+				"reso",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"config",
+				"Sealious/lib/config/config-manager.js"
+			],
+			[
+				"packaj",
+				"Sealious/package.json"
+			],
+			[
+				"pluginmana",
+				"Sealious/lib/plugins/plugin-manager.js"
+			],
+			[
+				"channel.",
+				"sealious-www-server/define/channel.www_server.js"
+			],
+			[
+				"noone",
+				"Sealious/lib/base-chips/access_strategy.noone.js"
+			],
+			[
+				"resmana",
+				"Sealious/lib/core-services/resource-manager.js"
+			],
+			[
+				"pluginma",
+				"Sealious/lib/plugins/plugin-manager.js"
+			],
+			[
+				"restypeuser",
+				"Sealious/lib/base-chips/resource_type.user.js"
+			],
+			[
+				"testjs",
+				"Sealious/tests/test.js"
+			],
+			[
+				"restyue",
+				"Sealious/lib/base-chips/resource_type.user.js"
+			],
+			[
+				"fieltex",
+				"Sealious/lib/base-chips/field_type.text.js"
+			],
+			[
+				"text.js",
+				"Sealious/node_modules/mocha/node_modules/jade/lib/nodes/text.js"
+			],
+			[
+				"int.js",
+				"Sealious/lib/base-chips/field_type.int.js"
+			],
+			[
+				"float.js",
+				"Sealious/lib/base-chips/field_type.float.js"
+			],
+			[
+				"fielfil",
+				"Sealious/lib/base-chips/field_type.file.js"
+			],
+			[
+				"file.js",
+				"Sealious/lib/data-structures/file.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 450.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"sealious",
+				"~/Projects/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"sealhu",
+				"~/Projekty/sealhub/sealhub.sublime-project"
+			],
+			[
+				"gam2",
+				"~/Projekty/gamuter-webgl/shaders/gamuter-2.sublime-project"
+			],
+			[
+				"sealiosu",
+				"~/Projekty/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"ke",
+				"~/Studia/2015 L/KEA/KEA.sublime-project"
+			],
+			[
+				"alf",
+				"~/Projekty/alfred/alfred.sublime-project"
+			],
+			[
+				"quantum",
+				"~/Projekty/quantum/quanutm.sublime-project"
+			],
+			[
+				"quant",
+				"~/Projekty/quantum/quanutm.sublime-project"
+			],
+			[
+				"alfred",
+				"~/Projekty/alfred/alfred.sublime-project"
+			],
+			[
+				"quan",
+				"~/Projekty/quantum/quanutm.sublime-project"
+			],
+			[
+				"przy",
+				"~/Projekty/przychodnia/przychodnia.sublime-project"
+			],
+			[
+				"sowa",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			],
+			[
+				"woa",
+				"~/Projekty/Sokoban/Sokoban.sublime-workspace"
+			],
+			[
+				"quantu",
+				"~/Projekty/quantum/quanutm.sublime-project"
+			],
+			[
+				"qu",
+				"~/Projekty/quantum/quanutm.sublime-project"
+			],
+			[
+				"przych",
+				"~/Projekty/przychodnia/przychodnia.sublime-project"
+			],
+			[
+				"przyc",
+				"~/Projekty/przychodnia/przychodnia.sublime-project"
+			],
+			[
+				"alfre",
+				"~/Projekty/alfred/alfred.sublime-project"
+			],
+			[
+				"aldre",
+				"~/Projekty/alfred/alfred.sublime-project"
+			],
+			[
+				"al",
+				"~/Projekty/alfred/alfred.sublime-project"
+			],
+			[
+				"die",
+				"~/Projekty/dietowskazy/dietowskazy.sublime-project"
+			],
+			[
+				"dietowskazy",
+				"~/Projekty/dietowskazy/dietowskazy.sublime-project"
+			],
+			[
+				"dietow",
+				"~/Projekty/dietowskazy/dietowskazy.sublime-project"
+			],
+			[
+				"dieto",
+				"~/Projekty/dietowskazy/dietowskazy.sublime-project"
+			],
+			[
+				"kea",
+				"~/Studia/2015 L/KEA/KEA.sublime-project"
+			],
+			[
+				"soko",
+				"~/Projekty/Sokoban/Sokoban.sublime-project"
+			],
+			[
+				"sealiou",
+				"~/Projekty/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"swoa",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			],
+			[
+				"a",
+				"~/Studia/2015 L/KEA/KEA.sublime-project"
+			],
+			[
+				"sokoban",
+				"~/Projekty/Sokoban/Sokoban.sublime-project"
+			],
+			[
+				"sea",
+				"~/Projekty/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"sael",
+				"~/Projekty/Sealious-dev/Sealious.sublime-project"
+			],
+			[
+				"sokoba",
+				"~/Projekty/Sokoban/Sokoban.sublime-project"
+			],
+			[
+				"sow",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			],
+			[
+				"SOW",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			],
+			[
+				"sO",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			],
+			[
+				"so",
+				"~/Projekty/SOWa/SOWa.sublime-project"
+			]
+		],
+		"width": 342.0
+	},
+	"select_symbol":
+	{
+		"height": 30.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 414.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
