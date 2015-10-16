@@ -2,18 +2,46 @@ var React = require("react");
 var Target = require("./target.jsx");
 var UserInput = require("./user-input.jsx");
 
+var Task = require("../logic/task.js");
+
+var input_style = {width: "600px", height: "40px", fontSize: "14px", fontFamily: "Courier"};
+
 module.exports = React.createClass({
+    getInitialState: function(){
+        return {
+            begin_text: "N[etgu]ruuuu ",
+            target_text: "Netguru[]"
+        }
+    },
+    changeBegin: function(e){
+        this.setState({
+            begin_text: e.target.value
+        })
+    },
+    changeTarget: function(e){
+        this.setState({
+            target_text: e.target.value
+        })
+    },
+    getNeededMoves: function(){
+        var task = new Task(this.state.begin_text, this.state.target_text);
+        return task.get_minimal_steps();
+    },
 	render: function(){
 		return (
-      <div className="appContainer" style={{fontFamily: "Courier"}}>
-  			<h1 className="appHeader">Welcome in Typing Arena!</h1>
-        <p className="app-description">Your goal: Rewrite input text so it matches our target text.<br />
-         You have to do it as fast as you can, while using keystrokes as little as possible.</p>
-        <p className="app-description">This is a target text you shoud have in your input:</p>
-        <Target />
-        <p className="app-description">...and this is the input. Ready? GO!</p>
-        <UserInput />
-      </div>
-		)
+          <div className="appContainer" style={{fontFamily: "Courier"}}>
+              <h1 className="appHeader">Welcome in Typing Arena!</h1>
+              <br/>
+              <br/>
+              <br/>
+              <span>Begin text:</span>
+              <input type="text" value={this.state.begin_text} style={input_style} onChange={this.changeBegin}/>
+              <br/>
+              <span>Target text:</span>
+              <input type="text" value={this.state.target_text} style={input_style}  onChange={this.changeTarget}/>
+              <span style={{color: "green"}}> This can be solved in <b>{this.getNeededMoves()}</b> steps</span>
+              <UserInput initial_text_representation={this.state.begin_text}/>
+          </div>
+          )
 	}
 });
